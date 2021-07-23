@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bezzamlmc
 - 👀 I’m interested in ... computing and prototyping solutions
-- 🌱 I’m currently learning ... embedded computing
+- 🌱 I’m currently learning ... about EDA, embedded and cloud computing latest trends
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
