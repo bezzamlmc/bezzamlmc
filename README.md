@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bezzamlmc
+- 👋 Hi, I’m @bezzamlmc Laura C
 - Problem solver...
 
 <!---
